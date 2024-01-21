@@ -6,4 +6,3 @@
 
 📫 Reach me aryangupta98711@gmail.com I love to explore things and learning new technology
 
-<h1> Tring my best to find my self</h1>
