@@ -11,17 +11,19 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me  
 
-- 🚀 Passionate **Full Stack Developer** & **Web3 Enthusiast**
-- 🔍 Exploring **C++, Backend Technologies, and AI**
-- 🎯 Open-source Contributor & Hackathon Winner 🏆
-- 📬 Reach me at **aryangupta98711@gmail.com**
-- 🌱 Always learning & building cool stuff!
+💡 **Innovative Developer | Problem Solver | Tech Enthusiast**  
+
+- 🚀 Passionate **Full Stack Developer** & **Web3 Explorer**  
+- 🛠️ Skilled in **C++, AI, and Backend Technologies**  
+- 🔥 Open-source Contributor & Hackathon Winner  
+- 🌱 Always learning, building, and breaking things to learn faster!  
+- 📬 Reach me at **aryangupta98711@gmail.com**  
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Tools  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,git,github,docker,kubernetes,linux,c,cpp,py" />
@@ -29,7 +31,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryangupta98711&theme=dark" alt="GitHub Streak"/>
@@ -45,24 +47,15 @@
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Projects  
 
-- 🥇 **Semi-Finalist at Smart India Hackathon 2024**
-- 🎖️ **HackFest Winner**
-- 🔥 **500+ DSA Problems Solved**
-- 🌍 **Tech Member of Google Developer Club**
-
----
-
-## 💡 Featured Projects
-
-- 🔹 **[Contract Farming Platform](#)** - A smart solution connecting farmers & sponsors with legal support.
-- 🔹 **[AI-powered Search Engine](#)** - Built with **gRPC, MongoDB, React** for seamless search experience.
-- 🔹 **[PiP Video Player](#)** - A **React-based** floating video player with interactive controls.
+🔹 **[Contract Farming Platform](#)** – Bridging farmers & sponsors with AI-powered legal support.  
+🔹 **[AI-powered Search Engine](#)** – Seamless search with **gRPC, MongoDB, and React**.  
+🔹 **[PiP Video Player](#)** – A floating **React-based** video player with smooth UX.  
 
 ---
 
-## 📣 Let's Connect!
+## 🌎 Let's Connect!  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryangupta98711/">
@@ -78,10 +71,4 @@
 
 ---
 
-## 🎉 Fun Meme
-
-<p align="center">
-  <img src="https://i.imgur.com/J4pvM5W.png" width="500px" alt="Coding Meme"/>
-</p>
-
----
+🔥 **"Code, Create, Conquer!"** 🚀  
