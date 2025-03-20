@@ -13,7 +13,10 @@
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b084f61f4a3ff.gif" width="90%" alt="Developer GIF"/>
 </div>
-
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*IRGHmiGsa16stedQvIaZfw.gif" width="50%" alt="Coding GIF"/>
+  <img src="https://camo.githubusercontent.com/8e4b84f68f2cb40728e66d9b21b5f80bb311ba5e29df3d0f62b1e78db68da8d9/68747470733a2f2f63646e2e646f72692f6e6f74696f6e2f75706c6f61642f636f64696e672e676966" width="45%" alt="Dev GIF"/>
+</p>
 ---
 
 ## 🌟 About Me  
@@ -32,15 +35,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,redis,tailwind,bootstrap,sass,git,github,gitlab,docker,kubernetes,aws,azure,gcp,linux,nginx,graphql,flask,fastapi,go,python,java,cpp,cs,php,rust,bash" />
-</p>
-
----
-
-## 🎨 Some Cool Visuals  
-
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*IRGHmiGsa16stedQvIaZfw.gif" width="50%" alt="Coding GIF"/>
-  <img src="https://camo.githubusercontent.com/8e4b84f68f2cb40728e66d9b21b5f80bb311ba5e29df3d0f62b1e78db68da8d9/68747470733a2f2f63646e2e646f72692f6e6f74696f6e2f75706c6f61642f636f64696e672e676966" width="45%" alt="Dev GIF"/>
 </p>
 
 ---
