@@ -21,7 +21,7 @@
 💡 **Innovative Developer | Problem Solver | Tech Enthusiast**  
 
 - 🚀 Passionate **Full Stack Developer** & **Web3 Explorer**  
-- 🛠️ Skilled in **C++, AI, and Backend Technologies**  
+- 🛠️ Skilled in **C++, AI, ML, Cloud, and Backend Technologies**  
 - 🔥 Open-source Contributor & Hackathon Winner  
 - 🌱 Always learning, building, and breaking things to learn faster!  
 - 📬 Reach me at **aryangupta98711@gmail.com**  
@@ -31,7 +31,16 @@
 ## 🚀 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,git,github,docker,kubernetes,linux,c,cpp,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,redis,tailwind,bootstrap,sass,git,github,gitlab,docker,kubernetes,aws,azure,gcp,linux,nginx,graphql,flask,fastapi,go,python,java,cpp,cs,php,rust,bash" />
+</p>
+
+---
+
+## 🎨 Some Cool Visuals  
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*IRGHmiGsa16stedQvIaZfw.gif" width="50%" alt="Coding GIF"/>
+  <img src="https://camo.githubusercontent.com/8e4b84f68f2cb40728e66d9b21b5f80bb311ba5e29df3d0f62b1e78db68da8d9/68747470733a2f2f63646e2e646f72692f6e6f74696f6e2f75706c6f61642f636f64696e672e676966" width="45%" alt="Dev GIF"/>
 </p>
 
 ---
@@ -73,6 +82,8 @@
 🔹 **[Contract Farming Platform](#)** – Bridging farmers & sponsors with AI-powered legal support.  
 🔹 **[AI-powered Search Engine](#)** – Seamless search with **gRPC, MongoDB, and React**.  
 🔹 **[PiP Video Player](#)** – A floating **React-based** video player with smooth UX.  
+🔹 **[Smart AI Assistant](#)** – AI-powered virtual assistant for personal productivity.  
+🔹 **[Cybersecurity Dashboard](#)** – Advanced security insights for **ethical hacking & monitoring**.  
 
 ---
 
@@ -87,6 +98,9 @@
   </a>
   <a href="mailto:aryangupta98711@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/vampire20045">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
