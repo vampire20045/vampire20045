@@ -19,7 +19,7 @@
 - 🛠️ Skilled in **C++, AI, and Backend Technologies**  
 - 🔥 Open-source Contributor & Hackathon Winner  
 - 🌱 Always learning, building, and breaking things to learn faster!  
-- 📬 Reach me at **vampire20045@gmail.com**  
+- 📬 Reach me at **aryangupta98711@gmail.com**  
 
 ---
 
@@ -58,13 +58,13 @@
 ## 🌎 Let's Connect!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vampire20045/">
+  <a href="https://www.linkedin.com/in/aryangupta98711/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/vampire20045">
+  <a href="https://twitter.com/aryangupta98711">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:vampire20045@gmail.com">
+  <a href="mailto:aryangupta98711@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
