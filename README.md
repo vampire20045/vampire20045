@@ -19,7 +19,7 @@
 - 🛠️ Skilled in **C++, AI, and Backend Technologies**  
 - 🔥 Open-source Contributor & Hackathon Winner  
 - 🌱 Always learning, building, and breaking things to learn faster!  
-- 📬 Reach me at **aryangupta98711@gmail.com**  
+- 📬 Reach me at **vampire20045@gmail.com**  
 
 ---
 
@@ -34,15 +34,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryangupta98711&theme=dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=vampire20045&theme=dark" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryangupta98711&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vampire20045&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryangupta98711&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vampire20045&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 ---
@@ -58,13 +58,13 @@
 ## 🌎 Let's Connect!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryangupta98711/">
+  <a href="https://www.linkedin.com/in/vampire20045/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Aryangupta98711">
+  <a href="https://twitter.com/vampire20045">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:aryangupta98711@gmail.com">
+  <a href="mailto:vampire20045@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
